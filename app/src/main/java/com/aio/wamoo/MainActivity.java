@@ -1,6 +1,5 @@
-package devesh.chaudhari.FirebaseWebRTC;
+package com.aio.wamoo;
 
-import android.Manifest;
 import android.annotation.TargetApi;
 import android.content.Context;
 import android.content.pm.PackageInfo;
